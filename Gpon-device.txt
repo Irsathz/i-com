@@ -1,0 +1,12 @@
+URL: http://103.168.182.146:8080/
+
+USERNAME: AdminGPON
+PASSWORD: ALC#FGU
+
+Device Name: G-140W-F
+Vendor: Nokia
+Serial Number: ALCLFBC79BDC
+Hardware Version: 3FE47779ABAA
+Boot Version: U-Boot Dec-31-2016--12:00:00
+Software Version: 3FE47150DGAB98
+Chipset: MTK7526G
